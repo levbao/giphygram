@@ -1,5 +1,5 @@
 //sw version
-const version = '1.2';
+const version = '1.1';
 
 //static cache - app shell
 const appAssets = [
